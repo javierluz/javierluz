@@ -16,9 +16,26 @@ Here are some ideas to get you started:
 -->
 
 ## About me
-🧑‍💻 Programming since 2012.
-🤖 I mainly use Angular (for the front-end) and PHP or Node.js (for the back-end).
-✨ I'm currently working on [Nirby](https://nir.by)
-🌱 I'm currently learning Python
-🎯 Goals: Improving people's lives through design and technology.
-🎲 Fun fact: I'm also a music producer and actor.
+- 🧑‍💻 Programming since 2012.
+- 🤖 I mainly use Angular (for the front-end) and PHP or Node.js (for the back-end).
+- ✨ I'm currently working on [Nirby](https://nir.by)
+- 🌱 I'm currently learning Python
+- 🎯 Goals: Improving people's lives through design and technology.
+- 🎲 Fun fact: I'm also a music producer and actor.
+
+## I code with
+- Angular
+- Firebase
+- Typescript
+- Javascript
+- Google Cloud (GCP)
+- PostgreSQL
+- MySQL
+- MongoDB
+- React
+- nginx
+- apache
+- PHP
+- Codeigniter
+- Wordpress
+- Astro

@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey! I'm Javier 🐽
 
 <!--
 **javierluz/javierluz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## About me
+🧑‍💻 Programming since 2012.
+🤖 I mainly use Angular (for the front-end) and PHP or Node.js (for the back-end).
+✨ I'm currently working on [Nirby](https://nir.by)
+🌱 I'm currently learning Python
+🎯 Goals: Improving people's lives through design and technology.
+🎲 Fun fact: I'm also a music producer and actor.

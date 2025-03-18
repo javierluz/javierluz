@@ -1,4 +1,5 @@
 ## Hey! I'm Javier 🐽
+I'm a software engineer, ux/ui designer, tech entrepreneur and artist from Chile. I've founded a few startups over the years. Mostly failures. But with lots of learning. Currently focusing on B2B SaaS, interactivity, Machine Learning and enterprise software.
 
 <!--
 **javierluz/javierluz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
